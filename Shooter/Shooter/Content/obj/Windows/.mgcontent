@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/island.png</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/robot.jpg</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/iron.jpg</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/metal.jpg</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/Font</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/bullet.png</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/monster.png</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/blaster.png</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/rocket.jpg</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/Pause.png</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/PlayAct.png</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/PlayP.png</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/ExitP.gif</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/SettingsTex.png</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/ExitAct.png</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/CrMod.png</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/CrModAct.png</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/MainMenuTex.jpg</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/PauseTex.jpg</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/SettingsTexAct.jpg</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/tick.png</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/LoadGameTex.png</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/NewGameTex.jpg</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/BackT.ico</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/mainMenuButTex.png</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/piu.mp3</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/MainSound.mp3</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/blasterSound.mp3</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/rocketSound.mp3</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/saberSound.mp3</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/damageHeroSound.mp3</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/damageMonSound.mp3</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/NewGameSound.mp3</File>
+    <File>C:/Users/Efrem/Desktop/Actual/Shooter/Shooter/Content/WallBreakSound.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>
